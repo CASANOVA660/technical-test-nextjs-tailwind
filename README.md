@@ -50,7 +50,7 @@ clovermint-nonprofit/
 
 1. Clone the repository:
    ```bash
-   git clone [your-repo-url]
+   git clone https://github.com/CASANOVA660/technical-test-nextjs-tailwind.git
    ```
 2. Install dependencies:
    ```bash
